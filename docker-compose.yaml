@@ -1,7 +1,6 @@
 version: "3.4"
 
 services:
-
   edge_proxy:
     image: nginx:1.19.1
     volumes:
