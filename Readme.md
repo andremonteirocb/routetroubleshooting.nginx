@@ -1,5 +1,2 @@
 
-## Estudo utilizando o serviço web nginx
-
-#### Referências:
-https://gago.io
+## Estudo utilizando o serviço web nginx, através do treinamento Cloud Native .Net (https://gago.io)
